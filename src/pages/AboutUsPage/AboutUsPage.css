@@ -1,0 +1,50 @@
+
+.about_wrapper section{
+    margin-bottom: 3rem;
+}
+.about_title {
+    font-family: "Poiret One", sans-serif;
+    margin: 2rem 0;
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.about_text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    margin-bottom: 20px;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+.about_article {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.privacy_policy_ul{
+    margin-bottom: 20px;
+}
+.privacy_policy_ul li{
+    margin-left: 2rem;
+    margin-bottom: 10px;
+}
+.privacy_policy_ul p{
+    margin-bottom: 0px;
+}
+.about_us_link, .about_color_text{
+    font-family: "Montserrat", sans-serif;
+    color: #643ee0;
+    font-weight: 500;
+}
+
+@media(max-width: 600px) {
+    .privacy_policy_ul li{
+        margin-left: 1rem;
+    }
+  }
+  @media(max-width: 450px) {
+    .privacy_policy_ul li{
+        margin-left: 0;
+    }
+  }

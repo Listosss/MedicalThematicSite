@@ -1,0 +1,13 @@
+.star_rating_wrapper{
+    margin-top: 3rem;
+}
+.stars_div{
+    display: flex;
+    gap: 5px;
+}
+.rating_txt{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0;
+}

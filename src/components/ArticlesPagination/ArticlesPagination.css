@@ -1,0 +1,26 @@
+.articles_pagination {
+    margin-top: 2rem;
+}
+
+.articles_pagination div {
+    display: flex;
+    padding: 0;
+    gap: 0.4rem
+}
+
+.articles_pagination div button {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    transition: background-color ease 0.2s;
+    border-radius: 3px;
+}
+
+.articles_pagination div button:hover {
+    background-color: #643ee0cd;
+    color: white;
+}
+.active_page{
+    background-color: rgb(213, 213, 213);
+}

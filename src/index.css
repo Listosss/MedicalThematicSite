@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Chonburi&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poiret+One&display=swap');
+* {
+  margin: 0;
+  padding: 0 ;
+  box-sizing: border-box;
+  outline: none;
+  border: 0;
+  cursor: default;
+}
+body{
+  min-width: 320px;
+}
+a {
+  text-decoration: none !important  ;
+  cursor: pointer;
+}
+.page_wrapper{
+  padding: 70px 40px;
+  width: calc(100vw-80px);
+  margin: 0 auto;
+  max-width: 1200px;
+}
+html{
+  font-size: 16px;
+}
+
+.loading_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+h1{
+  font-size: 2rem;
+}
+
+@media(max-width: 600px) {
+  html {
+    font-size: 14px;
+  }
+
+  .page_wrapper {
+    padding: 40px 30px;
+    width: calc(100vw-60px);
+  }
+}
+@media(max-width: 450px) {
+  .page_wrapper{
+    padding: 30px 20px;
+    width: calc(100vw-40px);
+  }
+}

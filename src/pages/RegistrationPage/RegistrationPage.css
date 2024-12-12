@@ -1,0 +1,17 @@
+.registration_page {
+    background-image: url(../../../public/assets/registration_banner.png);
+    width: auto !important;
+    max-width: none;
+    background-size: cover;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 450px) {
+    .registration_page {
+        height: fit-content;
+    }
+}

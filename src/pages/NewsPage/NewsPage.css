@@ -1,0 +1,26 @@
+.news_page_wrapper{
+    min-height: 500px;
+}
+.filter_articles_panel {
+    margin-bottom: 3rem;
+    display: flex;
+    gap: 2rem;
+}
+.filter_articles_panel select{
+    padding: 5px 11px 5px 4px;
+    font-family: "Montserrat", sans-serif;
+}
+.news_page_articles{
+    min-height: 400px;
+}
+.nothing_found_text{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    font-size: 1.3rem;
+}
+@media (max-width: 450px) {
+    .filter_articles_panel {
+        margin: 1.5rem 0 3rem;
+        flex-wrap: wrap;
+    }
+}

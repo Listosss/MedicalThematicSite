@@ -1,0 +1,59 @@
+
+.home_content_text {
+    margin: 0 auto;
+    display: flex;
+    gap: 5%;
+}
+
+.home_content_text div {
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.home_content_text h1 {
+    font-family: "Poiret One", sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    text-align: left;
+    padding-bottom: 10px;
+    border-bottom: 2px solid  #643ee0;
+    font-size: 1.5rem;
+}
+
+.home_content_text p {
+    text-align: justify;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    color: #555;
+    font-size: 1rem;
+    line-height: 1.8rem;
+    margin-top: 20px;
+}
+
+.main_page_articles{
+    display: flex;
+    flex-direction: column;
+    gap: 1.4rem;
+}
+
+.top_reads_section{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin: 5rem 0 1.5rem;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 900;
+}
+.top_reads_section h1{
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+@media(max-width: 1100px){
+    .home_content_text{
+        flex-wrap: wrap;
+    }
+   
+}

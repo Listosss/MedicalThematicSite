@@ -1,0 +1,69 @@
+
+{
+    "defaultComments": [
+        {
+            "username": "JaneDoe",
+            "src": "/assets/avatars/avatar3.png",
+            "text": "This article clarified a lot of my doubts about the condition. Thanks for sharing!"
+        },
+        {
+            "username": "HealthyLiving",
+            "src": "/assets/avatars/avatar12.png",
+            "text": "Great insights! Can you write more about natural remedies for this?"
+        },
+        {
+            "username": "MikeH",
+            "src": "/assets/avatars/avatar4.png",
+            "text": "Interesting read. I didn’t know stress could impact health this much."
+        },
+        {
+            "username": "SarahB",
+            "src": "/assets/avatars/avatar10.png",
+            "text": "I’ve been struggling with this issue for a while, and your tips are very helpful!"
+        },
+        {
+            "username": "DrGreen",
+            "src": "/assets/avatars/avatar8.png",
+            "text": "Comprehensive article! Adding a case study might make it even more engaging."
+        },
+        {
+            "username": "FitnessFanatic",
+            "src": "/assets/avatars/avatar9.png",
+            "text": "Loved the practical advice on staying active. Keep up the great work!"
+        },
+        {
+            "username": "Liam",
+            "src": "/assets/avatars/avatar2.png",
+            "text": "Thanks for the detailed explanation. Any recommendations for beginners in this area?"
+        },
+        {
+            "username": "WellnessCoach",
+            "src": "/assets/avatars/avatar11.png",
+            "text": "I always recommend your articles to my clients. They’re simple and effective!"
+        },
+        {
+            "username": "Anna",
+            "src": "/assets/avatars/avatar6.png",
+            "text": "Very informative article, thank you! Would love to know more about prevention tips."
+        },
+        {
+            "username": "DrSmith",
+            "src": "/assets/avatars/avatar5.png",
+            "text": "Great write-up! I suggest adding references to clinical studies."
+        },
+        {
+            "username": "HealthFan",
+            "src": "/assets/avatars/avatar13.png",
+            "text": "Finally, a clear explanation of the symptoms. Much appreciated!"
+        },
+        {
+            "username": "WellnessGuru",
+            "src": "/assets/avatars/avatar7.png",
+            "text": "Good read. Do you plan to follow up with more on proper nutrition?"
+        },
+        { 
+            "username": "Paul", 
+            "src": "/assets/avatars/avatar1.png", 
+            "text": "Nice article!" }
+    ]
+}

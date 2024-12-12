@@ -1,0 +1,106 @@
+.account_info label {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+
+.account_info p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    color: #454444;
+}
+
+.account_wrapper {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.change_avatar_div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-family: "Montserrat", sans-serif;
+}
+
+.account_avatar_preview {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+.exit_btn {
+    margin-top: 4rem;
+    background-color: #a55d5d;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-family: "Montserrat", sans-serif;
+    transition: background-color ease 0.3s;
+    font-size: 1rem;
+}
+.exit_btn:hover{
+    background-color: #883a3a;
+}
+
+
+.change_avatar_input {
+    display: none;
+}
+
+.file_input label {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:  #704de3;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.file_input label:hover {
+    background-color: #573daa;
+}
+
+.avatar_btns_panel {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.change_avatar_btn,
+.cancel_avatar_btn {
+    color: white;
+    padding: 3px 10px;
+    border-radius: 3px;
+}
+
+.change_avatar_btn {
+    background-color: #79ad82;
+}
+
+.cancel_avatar_btn {
+    background-color: #a55d5d;
+}
+
+@media(max-width: 700px){
+    .account_wrapper{
+        flex-direction: column-reverse;
+        align-items: start;
+        gap: 2rem;
+    }
+    .account_avatar_preview{
+        width: 150px;
+        height: 150px;
+    }
+}
+@media(max-width: 450px){
+    .account_avatar_preview{
+        width: 130px;
+        height: 130px;
+    }
+}

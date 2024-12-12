@@ -1,0 +1,60 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.41);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.modal_window {
+    box-sizing: border-box;
+    position: absolute;
+    min-width: 290px;
+    max-width: 350px;
+    padding: 45px 30px 10px;
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid #643ee0;
+}
+
+.modal_close {
+    position: absolute;
+    top: 10px;
+    right: 14px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 25px;
+    color: #643ee0;
+}
+
+.modal_window p {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.2rem;
+}
+
+.modal_window a {
+    padding: 8px 10px;
+    font-size: 1rem;
+    border: 1px solid #643ee0;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 4px;
+    font-weight: 500;
+    color: #643ee0;
+}
+
+.modal_links_div {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+body.modal-open {
+    overflow: hidden;
+}

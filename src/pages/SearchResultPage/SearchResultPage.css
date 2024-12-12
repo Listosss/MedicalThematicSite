@@ -1,0 +1,15 @@
+.search_result_text{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+}
+.no_results_text{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+}
+.search_articles{
+    display: flex;
+    flex-direction: column;
+    gap: 1.4rem;
+}
