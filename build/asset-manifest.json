@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MedicalThematicSite/static/css/main.3b8bdb0e.css",
+    "main.js": "/MedicalThematicSite/static/js/main.7d765e15.js",
+    "static/media/registration_banner.png": "/MedicalThematicSite/static/media/registration_banner.3b4bc4b4b55760b1cb16.png",
+    "static/media/login_banner.png": "/MedicalThematicSite/static/media/login_banner.ae9fac29461eb8a3d6b4.png",
+    "static/media/main_banner.jpg": "/MedicalThematicSite/static/media/main_banner.efaf647ad2cae2b313a2.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/MedicalThematicSite/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/MedicalThematicSite/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/fa-brands-400.ttf": "/MedicalThematicSite/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fontawesome-webfont.eot": "/MedicalThematicSite/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/MedicalThematicSite/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/MedicalThematicSite/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/MedicalThematicSite/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/MedicalThematicSite/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/MedicalThematicSite/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/MedicalThematicSite/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/fa-regular-400.woff2": "/MedicalThematicSite/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/MedicalThematicSite/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/MedicalThematicSite/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/MedicalThematicSite/index.html",
+    "main.3b8bdb0e.css.map": "/MedicalThematicSite/static/css/main.3b8bdb0e.css.map",
+    "main.7d765e15.js.map": "/MedicalThematicSite/static/js/main.7d765e15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b8bdb0e.css",
+    "static/js/main.7d765e15.js"
+  ]
+}
