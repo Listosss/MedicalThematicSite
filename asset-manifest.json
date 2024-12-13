@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MedicalThematicSite/static/css/main.3b8bdb0e.css",
-    "main.js": "/MedicalThematicSite/static/js/main.7d765e15.js",
+    "main.css": "/MedicalThematicSite/static/css/main.a941ebdf.css",
+    "main.js": "/MedicalThematicSite/static/js/main.5bbb3519.js",
     "static/media/registration_banner.png": "/MedicalThematicSite/static/media/registration_banner.3b4bc4b4b55760b1cb16.png",
     "static/media/login_banner.png": "/MedicalThematicSite/static/media/login_banner.ae9fac29461eb8a3d6b4.png",
     "static/media/main_banner.jpg": "/MedicalThematicSite/static/media/main_banner.efaf647ad2cae2b313a2.jpg",
@@ -19,11 +19,11 @@
     "static/media/fa-v4compatibility.ttf": "/MedicalThematicSite/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
     "static/media/fa-v4compatibility.woff2": "/MedicalThematicSite/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/MedicalThematicSite/index.html",
-    "main.3b8bdb0e.css.map": "/MedicalThematicSite/static/css/main.3b8bdb0e.css.map",
-    "main.7d765e15.js.map": "/MedicalThematicSite/static/js/main.7d765e15.js.map"
+    "main.a941ebdf.css.map": "/MedicalThematicSite/static/css/main.a941ebdf.css.map",
+    "main.5bbb3519.js.map": "/MedicalThematicSite/static/js/main.5bbb3519.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b8bdb0e.css",
-    "static/js/main.7d765e15.js"
+    "static/css/main.a941ebdf.css",
+    "static/js/main.5bbb3519.js"
   ]
 }
